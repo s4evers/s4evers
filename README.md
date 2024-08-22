@@ -37,9 +37,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - 📫 **Связь со мной**:
-  - [⭐️Instagram](https://Instagram.com/cs.mer6)
-  - [⭐️Telegram](https://t.me/Muhammedov)
-  - [⭐️Мой Телеграм-канал](https://t.me/Networking_Security)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
+[![Instagram](https://img.shields.io/badge/TELEGRAM-red?style=for-the-badge&logo=telegram)](https://t.me/Muhammedov)
+<a href="https://youtube.com/@nukotz?si=1Z6uz0wO2NpOeJUY"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
+
+
+
 - 🎯 **Обо мне**: Заинтересован в исследовании новых технологий и постоянно ищу новые вызовы в области кибербезопасности.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
