@@ -41,6 +41,7 @@
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-red?style=for-the-badge&logo=instagram)](https://instagram.com/cs.mer6)
 
 [![Instagram](https://img.shields.io/badge/TELEGRAM-red?style=for-the-badge&logo=telegram)](https://t.me/Muhammedov)
+
 <a href="https://youtube.com/@nukotz?si=1Z6uz0wO2NpOeJUY"><img title="YouTube" src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=Youtube"></a>
 
 - 🎯 **Обо мне**: Заинтересован в исследовании новых технологий и постоянно ищу новые вызовы в области кибербезопасности.
